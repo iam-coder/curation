@@ -1,0 +1,31 @@
+HOME:
+
+The front page should be as simple as possible without any bullshit.
+It should mainly comprise of the following three sections:
+*Home
+*About us
+*Contact us
+These would cover the header.
+
+
+At the centre:
+Left part would be for some description of our work or a boottrap carousel of facts about coding/development (more
+preferrabe) while the right part would be for the figure that would provide the user with the links (as decided with
+manoj and akul).
+
+@manoj: the array text that keeps on changing should be highlighted by some other means, it should be more attractive.
+
+The bottom should include the subscription thing till beta is not released (already added), after which we can have our 
+own user databse and a login system.
+
+            *---*---*---*---*----*---*---*---*---*---*---*---*---*---*---*----*---*--*---*--*---*---*
+
+AFTER A USER HAS SELECTED ANY PARTICULAR COURSE (separate page for this):
+
+lets say the user has selected front-end, a list of things related to it will be shown horizontally. For eg:
+CSS, JS;
+if the user selects js, then things related to JS should appear below the items displayed above (they should not go away).
+The user would be redirected to the link corresponding to the item clicked.
+
+In each case the horizontal layer that gets added, it should have items in increasing order of difficulty for that 
+particular thing. (for exaple: for JS, items could be in this order: plain JS and then the libraries of JS)
